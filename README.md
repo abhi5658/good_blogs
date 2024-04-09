@@ -1,5 +1,9 @@
 # good_blogs
 
+# To be Read
+- [Software Engineering at Google (“SWE Book”) by Titus Winters, Tom Manshreck and Hyrum Wright](https://abseil.io/resources/swe-book/html/toc.html)
+____
+
 ## <placeholder>
 - <placeholder>
 
