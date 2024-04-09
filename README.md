@@ -10,6 +10,10 @@ ____
 ## 04/04/2024
 - [How Levels.fyi Built Scalable Search with PostgreSQL](https://www.levels.fyi/blog/scalable-search-with-postgres.html)
 
+## 20/03/2024
+- [Database Basics Series: Understanding SQL Isolation Levels
+](https://open.substack.com/pub/pratikpandey/p/database-basics-series-understanding)
+
 ## 04/03/2024
 - [Slow Down! Rate Limiting Deep Dive](https://www.codereliant.io/rate-limiting-deep-dive/)
 
