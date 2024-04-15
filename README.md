@@ -7,6 +7,9 @@ ____
 ## <placeholder>
 - <placeholder>
 
+## 15/04/2024
+- [Real-time Distributed score streaming using gRPC and Redis](https://engg.glance.com/real-time-distributed-score-streaming-using-grpc-and-redis-a1565b45c825)
+
 ## 04/04/2024
 - [How Levels.fyi Built Scalable Search with PostgreSQL](https://www.levels.fyi/blog/scalable-search-with-postgres.html)
 
